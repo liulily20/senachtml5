@@ -1,4 +1,4 @@
-Diário de Bordo
+# Diário de Bordo
 
 18/10/2023 Atividades 1 à 6 do livro finalizadas, atividade 7 iniciada (parei na página 77)
 
