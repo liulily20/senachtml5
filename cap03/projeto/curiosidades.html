@@ -50,6 +50,29 @@ dd{
     margin-bottom: 30px;
     padding: 20px 20px 0;
 }
+ol{
+    list-style-type: none;
+    white-space: pre;
+    line-height: .9em;
+    /* definir a variável de contagem */
+    counter-reset: contador;
+}
+ol li:before{
+    color: #999999;
+    /* incrementar a variável em 1 */
+    counter-increment: contador;
+    /* usar o número do contador como conteúdo */
+    content: "Questão" counter(contador) "\00BB";
+}
+ul li a{
+    text-decoration: none;
+    color: #C0262C;
+    font-weight: bold;
+    padding: 7px;
+}
+ul li a:hover{
+    text-decoration: underline;
+}
 </style>
 </head>
 
