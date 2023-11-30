@@ -8,4 +8,4 @@
 
 30/10/2023 Iniciado o capítulo 3 do livro, página 142.
 
-28/11/2023 Voltando da reforma, páginas 142 até 144 finalizadas, exercícios do cap 3 iniciados.
+28/11/2023 Voltando da reforma, iniciando página 142 de novo.
