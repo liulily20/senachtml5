@@ -9,3 +9,5 @@
 30/10/2023 Iniciado o capítulo 3 do livro, página 142.
 
 28/11/2023 Voltando da reforma, iniciando página 142 de novo.
+
+29/11/2023 Finalizado o cap 4 do livro, iniciando os exercícios.
