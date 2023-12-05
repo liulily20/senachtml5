@@ -11,3 +11,5 @@
 28/11/2023 Voltando da reforma, iniciando página 142 de novo.
 
 29/11/2023 Finalizado o cap 4 do livro, iniciando os exercícios.
+
+04/12/2023 Início do cap 5 do livro, fazendo atividades
