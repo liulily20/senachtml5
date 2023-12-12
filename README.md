@@ -15,3 +15,5 @@
 04/12/2023 Início do cap 5 do livro, fazendo atividades
 
 05/12/2023 Continuando cap 5 do livro, finalizar atividade 4 pág 221
+
+11/12/2023 Finalizada a atividade 4 do livro, iniciada a atividade 5 (pág 227)
