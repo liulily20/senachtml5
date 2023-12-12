@@ -13,3 +13,5 @@
 29/11/2023 Finalizado o cap 4 do livro, iniciando os exercícios.
 
 04/12/2023 Início do cap 5 do livro, fazendo atividades
+
+05/12/2023 Continuando cap 5 do livro, finalizar atividade 4 pág 221
