@@ -17,3 +17,5 @@
 05/12/2023 Continuando cap 5 do livro, finalizar atividade 4 pág 221
 
 11/12/2023 Finalizada a atividade 4 do livro, iniciada a atividade 5 (pág 227)
+
+12/12/2023 Pesquisa sobre bootstraps, apenas testando coisas novas nos sites e visual studio.
