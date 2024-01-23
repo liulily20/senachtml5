@@ -12,7 +12,7 @@
 <script src="interacao/html5shiv.min.js"></script>
 <link href="estilos/principal.css" rel="stylesheet" type="text/css">
 <style>
-h2 {
+#curiosidades main h2 {
 	background-color: #C0262C;
 	background-image: url(multimidia/importante-saber.jpg), url(recursos/back-bolinha.gif);
 	background-repeat: no-repeat, repeat;
@@ -25,33 +25,33 @@ padding: 61px 400px 61px 100px;
 	letter-spacing: .1em;
 
 }
- figcaption {
+#curiosidades main figcaption {
  background-color:#C0262C; 
  padding: 7px 0;
  color: #FFFFFF; 
  font-size: 1.5em; 
 }
 
-figure { 
+#curiosidades main figure { 
  border: #C0262C solid thin; 
  border-radius: 35px 35px 0 0; 
  padding: 20px 0 0; 
  text-align: center; 
 }
 
-ul li {
+#curiosidades main ul li {
 	list-style-type: none;
 	list-style-image: url(multimidia/ossinho.png);
 list-style-position: inside;
 	margin: 30px 0;
 }
 
-dt {
+#curiosidades main dt {
 	color: #fff;
 	background-color: #C0262C;
 	padding: 7px;
 }
-dd {
+#curiosidades main dd {
 	border: thin #C0262C solid;
 	border-radius: 0 0 25px 25px;
 	margin-top: -3px;
@@ -59,14 +59,14 @@ dd {
 	padding: 20px 20px 0;
 }
 
-ol {
+#curiosidades main ol {
 	list-style-type: none;
 	white-space: pre;
 	line-height: .9em;
 	/* definir a variável de contagem */
 	counter-reset: contador;
 }
-ol li:before{
+#curiosidades main ol li:before{
 	color: #999999;
 	/* incrementar a variável em 1 */
 	counter-increment: contador;
@@ -74,34 +74,34 @@ ol li:before{
 	content: "Questão " counter(contador) " \00BB  ";
 }
 
-ul li a {
+#curiosidades main ul li a {
 	text-decoration: none;
 	color: #C0262C;
 	font-weight: bold;
 	padding: 7px;
 }
-ul li a:hover {
+#curiosidades main ul li a:hover {
 	text-decoration: underline;
 }
 
-dd a[target="_blank"] {
+#curiosidades main dd a[target="_blank"] {
 	text-decoration: none;
 	color: #C0262C;
 	font-weight: bold;
 	padding: 7px;
 	display: inline-block;
 }
-dd a[target="_blank"]:hover {
+#curiosidades main dd a[target="_blank"]:hover {
 	text-decoration: underline;
 }
-dd a[href="#top"] {
+#curiosidades main dd a[href="#top"] {
 	text-decoration: none;
 	color: #C0262C;
 	font-weight: bold;
 	padding: 7px 0 7px 30px;
 	background: url(multimidia/seta-voltar.png) no-repeat left center;
 }
-dd a[href="#top"]:hover {
+#curiosidades main dd a[href="#top"]:hover {
 	text-decoration: underline;
 	background: url(multimidia/seta-voltar-hover.png) no-repeat left center;
 }
@@ -121,7 +121,7 @@ dd a[href="#top"]:hover {
 		<div id="anuncio">
 		<img src="multimidia/anuncio-cantinho-feliz-h.jpg" alt="anúncio - cantinho feliz, hotel para cachorro">
 		</div>
-		<body>
+		<body id="curiosidades">
 		
 		
 		<section>
