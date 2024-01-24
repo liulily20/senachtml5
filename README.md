@@ -21,3 +21,5 @@
 12/12/2023 Pesquisa sobre bootstraps, apenas testando coisas novas nos sites e visual studio.
 
 13/12/2023 Trabalho em dupla sobre bootstrap finalizado e entregue.
+
+22/01/2024 Livro finalizado, terminando exercícios propostos.
