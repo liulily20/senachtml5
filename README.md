@@ -23,3 +23,5 @@
 13/12/2023 Trabalho em dupla sobre bootstrap finalizado e entregue.
 
 23/01/2024 Livro finalizado, terminando exercícios propostos.
+
+24/01/2024 Exercícios finalizados, passando os exercícios que fiz em casa para o github.
