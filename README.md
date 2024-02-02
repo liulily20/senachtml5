@@ -27,3 +27,5 @@
 24/01/2024 Exercícios finalizados, passando os exercícios que fiz em casa para o github.
 
 29/01/2024 Feedback individual e finalizando projetos.
+
+01/02/2024 Trabalho com Wordpress 
